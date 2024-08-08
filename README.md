@@ -1,1 +1,1 @@
-(Responsive landing page for an app)[[link](https://bassem-zakii.github.io/landingpageapp/)]
+# [Responsive landing page for an app](https://bassem-zakii.github.io/blog1/)
